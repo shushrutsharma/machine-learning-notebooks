@@ -4,7 +4,6 @@ This is a repository which contains all my data science and machine learning not
 
 The notebooks in this repository can also be found on my kaggle page : [Here](https://www.kaggle.com/shushrutsharma)
 ## Index :
----------------------
     
 1. [classification] [UCI Heart Disease Detection](https://gist.github.com/shushrutsharma/f51a8f9ce0692c040d379d0b2382118f)
 
